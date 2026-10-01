@@ -26,7 +26,7 @@ export default function RootLayout() {
           <Outlet />
         </main>
         <footer className="border-t p-4 text-center text-xs text-muted-foreground">
-          ชื่อ-นามสกุล และรหัสนักศึกษาของผู้จัดทำ — แก้เป็นของตัวเอง
+          ธรรมรัตน์ พูลภาวรสิน  680610681
         </footer>
       </SidebarInset>
     </SidebarProvider>
